@@ -13,50 +13,69 @@ hu-na – ввод
 ```
 
 Мой язык предполагает вывод информации в консоль. Для этого у меня есть команда margim
-margim – изгнание
 
-	Для преобразования типов данных:
+```
+margim – изгнание
+```
+
+Для преобразования типов данных:
+```
 int – gunod
 str – hul
 float – krur
-	
-	Функции со стороками:
+```
+
+Функции со стороками:
+```
 len – sigum
 replace – bhad
 split – sorgh
 lower – gukh
 upper – talug
+```
 
-	Функции со списками:
+Функции со списками:
+```
 append – marbh
 remove – khara
-
-	Условия:
-Двоеточия не ставятся
+```
+Условия:
+```
 if – ak
 elif – rag
 else – nanulg
 not – arg
+```
 
-	Цикл for:
+Цикл for:
+```
 for – ar
 in – dau
 range – dunudum
 break – atishum
 continue – vrapog
-	Цикл while:
+```
+
+Цикл while:
+```
 while – fal
-	Функции:
+```
+Функции:
+```
 def – buf
 True – kogurz
 False – fururz
-	Библиотеки:
+```
+Библиотеки:
+```
 import – horm
 random – fasharz
+```
 
-	Random:
+Random:
+```
 randint – asharz
-
+```
 
 
 
